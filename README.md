@@ -13,11 +13,4 @@ Only Outlook personal calendars are synchronized properly. For other calendars (
 
 ## Translations
 
-Chinese (Traditional, Taiwan): [@ted1030](https://github.com/ted1030)  
-Czech: [@morning4coffe-dev](https://github.com/morning4coffe-dev)  
-English (United States): [@michalleptuch](https://github.com/michalleptuch)  
-French: [@FJduFou](https://github.com/FJduFou)  
-German: [@Armin2208](https://github.com/Armin2208)  
-Polish: [@michalleptuch](https://github.com/michalleptuch)  
-Spanish: [@alexfalconflores](https://github.com/alexfalconflores)  
-Turkish: [@baglayan](https://github.com/baglayan)  
+[Go to project on crowdin](https://crowdin.com/project/calendarflyout)  
